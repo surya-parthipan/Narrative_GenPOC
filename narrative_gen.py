@@ -38,7 +38,7 @@ if st.button("Generate Narrative"):
             "content": [
                 {
                     "type": "text",
-                    "text": f"Give me a narrative for a {selected_city} trip. Give me just the narrative; don't add the headings. Also, limit it to 250 to 500 characters."
+                    "text": f"Give me a narrative for a {selected_city} trip. Give me just the narrative; don't add the headings. Also, limit it to 600 to 1000 characters."
                 }
             ]
         }
